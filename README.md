@@ -70,9 +70,9 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 
 
 ## STM 32 CUBE PROGRAM :
-
-# SOURCE FILE:
 ```
+# SOURCE FILE:
+
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "stdio.h"
