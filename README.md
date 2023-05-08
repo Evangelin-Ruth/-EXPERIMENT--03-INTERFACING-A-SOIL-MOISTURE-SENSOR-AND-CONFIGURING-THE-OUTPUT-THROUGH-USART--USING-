@@ -242,25 +242,20 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## OUTPUT:
 ## SETUP:
 DEFAULT SETUP:
-![image](https://user-images.githubusercontent.com/94219798/236735318-b973a30a-1776-42b4-8f90-4a2d9e097361.png)
+![image](https://user-images.githubusercontent.com/94219798/236735898-aabe18fc-5b5c-4e54-a1b4-b19731730ee6.png)
 
 SETUP WHILE SENSING:
-![image](https://user-images.githubusercontent.com/94219798/236735417-8bbf0cbc-7015-4922-a6ed-de0992b4d938.png)
-
+![image](https://user-images.githubusercontent.com/94219798/236735917-0364b1c0-d2dd-4411-ab5c-d76924a336f1.png)
 
 ## SERIAL PORT UTILITY:
 DEFAULT SETUP VALUES:
-![image](https://user-images.githubusercontent.com/94219798/236735229-8bdefbd9-8dc9-4dce-bae1-a19058ff9286.png)
-
+![image](https://user-images.githubusercontent.com/94219798/236735936-844b0afc-8873-45c8-818e-c98fa86eb20f.png)
 PARTIALLY DIPPED:
-![image](https://user-images.githubusercontent.com/94219798/236735257-a7edbcda-da9b-4c16-9e59-d3b7bf0943e3.png)
-
+![image](https://user-images.githubusercontent.com/94219798/236735954-aad27226-d3f4-4941-9f50-b62d9de4187e.png)
 HALF DIPPED:
-![image](https://user-images.githubusercontent.com/94219798/236735469-93d1cef3-5fb4-4e17-a346-b24a890abe6a.png)
-
+![image](https://user-images.githubusercontent.com/94219798/236735857-d2da4133-aa50-4734-afe6-7c7764d6c8a3.png)
 COMPLETELY DIPPED:
-![image](https://user-images.githubusercontent.com/94219798/236735508-5e758f12-3c17-4a2d-a17a-20b545970ad3.png)
-
+![image](https://user-images.githubusercontent.com/94219798/236735878-c7966ac1-777f-49fe-9d1f-eed60193a4d5.png)
 
 
 
