@@ -242,21 +242,20 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## OUTPUT:
 ## SETUP:
 DEFAULT SETUP:
-![image](https://user-images.githubusercontent.com/94219798/236736859-5f309817-d378-49f2-bc11-ba94259a9224.png)
+![iot soil 1](https://user-images.githubusercontent.com/94219798/236737785-6337554c-695a-45eb-ad36-d772ded2c764.JPG)
 
 SETUP WHILE SENSING:
-![image](https://user-images.githubusercontent.com/94219798/236736974-6352c3dc-d0c7-4227-b50c-a81b77159b33.png)
+![iot soil 2](https://user-images.githubusercontent.com/94219798/236737812-8583cc67-e5ae-4e78-a690-8ef249d07698.JPG)
 
 ## SERIAL PORT UTILITY:
 DEFAULT SETUP VALUES:
-![image](https://user-images.githubusercontent.com/94219798/236735936-844b0afc-8873-45c8-818e-c98fa86eb20f.png)
+![image](https://user-images.githubusercontent.com/94219798/236737560-521e1c64-1251-44f2-8379-3869bc1044c4.png)
 PARTIALLY DIPPED:
-![image](https://user-images.githubusercontent.com/94219798/236735954-aad27226-d3f4-4941-9f50-b62d9de4187e.png)
+![image](https://user-images.githubusercontent.com/94219798/236737584-0d5c47be-198e-4204-931d-8fd5de3b86d0.png)
 HALF DIPPED:
-![image](https://user-images.githubusercontent.com/94219798/236736801-2e08ab2a-30c6-476b-9a4e-83581bc9ccf6.png)
+![image](https://user-images.githubusercontent.com/94219798/236737607-0c3a46ab-66f2-4e7e-b552-cf9bdc289504.png)
 COMPLETELY DIPPED:
-![image](https://user-images.githubusercontent.com/94219798/236736768-cf1f8ab4-359e-47c7-bee8-9c3915df6d34.png)
-
+![image](https://user-images.githubusercontent.com/94219798/236737621-8fff1ac9-d575-4458-b628-a03e10c2a3e6.png)
 
 
  
